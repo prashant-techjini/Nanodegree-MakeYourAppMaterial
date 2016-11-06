@@ -8,5 +8,6 @@
     <string name="action_share">Share</string>
 
     <string name="up">Up</string>
+    <string name="error_loading_images">Some error occurred while loading images.</string>
 
 </resources>
